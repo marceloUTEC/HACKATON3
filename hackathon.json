@@ -1,7 +1,7 @@
 {
   "teamCode": "TEAM-069",
   "teamName": "Kirkyboy",
-  "deployUrl": "https://",
+  "deployUrl": "https://kirkyboy.vercel.app",
   "storageProvider": "CLOUDINARY",
   "integrantes": [
     { "nombre": "Leonardo Martinez", "codigo": "202410148" },

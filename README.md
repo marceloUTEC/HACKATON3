@@ -942,7 +942,7 @@ Texto de entrega, cuando el deploy exista:
 
 ```txt
 Repositorio: https://github.com/marceloUTEC/HACKATON3
-Deploy: https://
+Deploy: https://kirkyboy.vercel.app
 TEAM_CODE: TEAM-069
 ```
 
