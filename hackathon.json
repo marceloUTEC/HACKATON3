@@ -1,11 +1,11 @@
 {
-  "teamCode": "TEAM-000",
-  "teamName": "Nombre de la cuadrilla",
+  "teamCode": "TEAM-069",
+  "teamName": "Kirkyboy",
   "deployUrl": "https://",
-  "storageProvider": "SUPABASE | CLOUDINARY",
+  "storageProvider": "CLOUDINARY",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Leonardo Martinez", "codigo": "202410148" },
+    { "nombre": "Marcelo Rosillo", "codigo": "202410597" },
+    { "nombre": "Leonardo Martinez", "codigo": "202410167" }
   ]
 }
